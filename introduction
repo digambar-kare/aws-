@@ -1,1 +1,13 @@
- 1.what is cloudblitz ?
+ 1.what is cloud computing ?
+Ans- Cloud computing is the delivery computing services from internet include servers,databases,datastorage,networking and softwarede
+2.deployment model in cloud ?
+Ans-The cloud deployment model identifies the specific type of cloud environment based on ownership, scale, and access, as well as the cloud's nature and purpose. 
+3.Service Model in cloud ?
+Ans-there are three types of service model iaas,paas,saas
+4.Architrcture of cloud computing ?
+Ans-
+5.AWS global infrastucture count ?
+Ans-
+Why do we use region ?
+Ans- aws region is the cluster of data centers on specific geografical area then why they use  because to reduce  the latency and data reaches quiqkly
+what is service? and what are resources ?
