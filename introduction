@@ -7,7 +7,7 @@ Ans-there are three types of service model iaas,paas,saas
 4.Architrcture of cloud computing ?
 Ans-
 5.AWS global infrastucture count ?
-Ans-
+Ans- 1) 32 lounched regions 2) 102 availability zones 3) 600+ points of presence 
 Why do we use region ?
 Ans- aws region is the cluster of data centers on specific geografical area then why they use  because to reduce  the latency and data reaches quiqkly
 what is service? and what are resources ?
