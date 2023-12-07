@@ -5,7 +5,8 @@ Ans-The cloud deployment model identifies the specific type of cloud environment
 3.Service Model in cloud ?
 Ans-there are three types of service model iaas,paas,saas
 4.Architrcture of cloud computing ?
-Ans-
+Ans-AWS Architecture: End to End Architecture Design, Components ...
+AWS architecture is a process of planning, designing, and implementing AWS resources in a cloud infrastructure.
 5.AWS global infrastucture count ?
 Ans- 1) 32 lounched regions 2) 102 availability zones 3) 600+ points of presence 
 Why do we use region ?
