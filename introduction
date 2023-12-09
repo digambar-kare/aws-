@@ -11,3 +11,5 @@ Ans- 1) 32 lounched regions 2) 102 availability zones 3) 600+ points of presence
 Why do we use region ?
 Ans- aws region is the cluster of data centers on specific geografical area then why they use  because to reduce  the latency and data reaches quiqkly
 what is service? and what are resources ?
+Ans- its cloud computing platform that offers various services like storage,computing power ,database, and widely used business purpose  and build application
+resources-  is it   various components and services are avalable on amazon web service platform  
