@@ -8,8 +8,38 @@ Ans-there are three types of service model iaas,paas,saas
 Ans-AWS architecture is a process of planning, designing, and implementing AWS resources in a cloud infrastructure.
 5.AWS global infrastucture count ?
 Ans- 1) 32 lounched regions 2) 102 availability zones 3) 600+ points of presence 
-Why do we use region ?
+6. Why do we use region ?
 Ans- aws region is the cluster of data centers on specific geografical area then why they use  because to reduce  the latency and data reaches quiqkly
-what is service? and what are resources ?
+7.what is service? and what are resources ?
 Ans- its cloud computing platform that offers various services like storage,computing power ,database, and widely used business purpose  and build application
-resources-  is it   various components and services are avalable on amazon web service platform  
+resources-  is it   various components and services are avalable on amazon web service platform
+8.how many resources do we have in iam ?
+Ans user group,user,role,policies,tag,mfa
+9.Deploy model in IAM ?
+Ans- Deployment model has 4 type like private cloud,public cloud,community cloud,hybrid cloud
+10.identities in Iam ?
+Ans-user ,user group,roles
+11.what is an i am user ?
+Ans- aws in iam user is use  seprate aws account to access aws services 
+12.what is iam group ?
+Ans  -  an identity that specific collection of i am user
+13 .what is iam policy?
+Ans - user , groups are operation are worked with help of specific permission thatr called policy
+14 what is iam role ?
+Ans - it is a simple way to communication between two services and and grant the  temprory access without any creating aws acount
+15 - where do we attached identity based policy ?
+Ans -  identity based policy are attached in iam users .roles ,and group
+16 - where do we used resource based policy ?
+Ans - resources based policy are attached to resources like s3 bucket  
+17 -can we able to a create a policy in json code ?
+Ans - yes  with gthe help of json policy generator
+18-if one user you created by default which permission are assigned with that user 
+Ans - aws manage policy and customer managed policy 
+19 -what is dominator policy?
+Ans - in there  policy who grant the full access or grant high permission in other permission to specific user and group that means dominator policy
+20 - what is arn and field ?
+Ans - amazon resource name / field 1-partiton/2-service/3-region/4-account id /5 -resource id
+21 - how many types od arn partition ?
+Ans it has three partition 1-  aws us-gov region /2-Aws cloud region/3-Aws-CN-region
+22 - what are tags ?
+Ans - each tag involved user defined key and value  and usecase of tag to manage the identify and serching
